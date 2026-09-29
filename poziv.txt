@@ -1,0 +1,6 @@
+Design a desktop web app "Dnevne igre": Beseda (guess a 5-letter word in 6 tries), Račun (guess a hidden equation), Križanka (mini crossword). All text in Slovenian. Screens: home with three game cards, Beseda with grid and keyboard, rules, result, error state, one screen per other game.
+
+light background, indigo accent, green amber and gray status colors, rounded corners, card layout, sans-serif, plenty of white space.
+
+Dodaten poziv za visily:
+Generate the three remaining screens
