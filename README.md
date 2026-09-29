@@ -5,7 +5,8 @@ Avtor: Simon Slemenšek. Mentor: izr. prof. dr. Boštjan Šumak.
 
 Repozitorij vsebuje celotno evalvacijsko gradivo: 28 zaslonov štirih prototipov, poziv, navodila ocenjevalcem, ocenjevalni inštrument, surove podatke obeh krogov in preglednico izračuna rezultatov. 
 
-## Oznake prototipov A – Visily, B – ročno oblikovan prototip, C – Uizard, D – Figma Make. Med ocenjevanjem ocenjevalci te povezave niso poznali. 
+## Oznake prototipov 
+A – Visily, B – ročno oblikovan prototip, C – Uizard, D – Figma Make. Med ocenjevanjem ocenjevalci te povezave niso poznali. 
 
 ## Struktura 
 - `zasloni/` – zasloni posameznega prototipa v izvorni ločljivosti
